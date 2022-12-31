@@ -1,8 +1,8 @@
 
 let i = 0;
-let text1 = "Hey! Miss Qiu.";
-let text2 = "Today is the Big Day."
-let speed = 100;
+let text1 = "Happy New Year My Love";
+let text2 = "I wish that I will be able to make you happy for the rest of my life."
+let speed = 10000;
 
 function typeWriter(text, para){
 	if(ok == 2){
